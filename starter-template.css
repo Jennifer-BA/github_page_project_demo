@@ -7,11 +7,4 @@ html, body {
     height: 120px;
     background: #a7bca5;
 }
-#navBar {
-    height: 20px;
-    background: green;
-    margin-top:60px;
-    position:absolute;
-    width:100%;
-    text-align: right;
-}
+
