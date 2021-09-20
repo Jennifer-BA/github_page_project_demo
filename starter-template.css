@@ -3,14 +3,6 @@ html, body {
     padding: 0;
     background: #ccc;
 }
-#contentWrapper {
-    width: 500px;
-    margin: 0 auto;
-    background: #ffffff;
-    height: 300px;
-    z-index:100;
-    position:relative;
-}
 #BannerBar {
     height: 120px;
     background: #a7bca5;
