@@ -7,4 +7,6 @@ html, body {
     height: 120px;
     background: #a7bca5;
 }
-
+#NavigationWrapper {
+    text-align: right;
+}
