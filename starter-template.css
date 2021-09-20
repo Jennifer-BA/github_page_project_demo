@@ -12,8 +12,8 @@ html, body {
     position:relative;
 }
 #BannerBar {
-    height: 40px;
-    background: blue;
+    height: 60px;
+    background: #a7bca5;
 }
 #navBar {
     height: 20px;
