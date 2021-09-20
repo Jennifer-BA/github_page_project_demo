@@ -10,4 +10,5 @@ html, body {
 #NavigationWrapper {
     text-align: right;
     padding-right: 40px;
+    top: 25px;
 }
